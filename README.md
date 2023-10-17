@@ -61,7 +61,7 @@
 7. Testing di node Sadewa
    ![image](https://github.com/Abhinaya173/JARKOM-MODUL-2-D18-2023/assets/114990549/b0cb0662-63f1-410e-bbe3-1e0c986a6788)
 
-# 10. Membuad Round Robin dan Mengganti Port
+# 10. Membuat Round Robin dan Mengganti Port
 1. Pada pembuatan Round Robin sudah saya gunakan di nomor sebelumnya
 2. Step ini sampai akhir akan sama untuk node node lainnya
 3. copy terlebih dahulu default.confnya dan edit isi berkasnya denga port yang diinginkan
@@ -73,3 +73,13 @@
 5. dan jangan lupa jika belum ada folder /var/www/…. Maka dibuat terlebih dahulu dan restart nodenya
 6. Testing di node Sadewa dengan memasukkan lynx http://IPNode:Port contoh http://192.200.3.2:8001
    ![image](https://github.com/Abhinaya173/JARKOM-MODUL-2-D18-2023/assets/114990549/1f5539ac-5f29-469f-b56f-a1dfea3570a8)
+
+# 11. Apache web server pada abimanyu.d18.com
+1. membuat directory terlebih dahulu /var/www/abimanyu.d18.com
+2. kemudian edit berkasnya 
+   ![image](https://github.com/Abhinaya173/JARKOM-MODUL-2-D18-2023/assets/114990549/6f56e720-307f-4aa7-bfb6-1c484101158a)
+
+3. aktifkan apache2nya dan restart
+4. testing bisa langsung melalui node abimanyu
+   ![image](https://github.com/Abhinaya173/JARKOM-MODUL-2-D18-2023/assets/114990549/d887ea26-fc4e-4339-b6eb-890ec5b7e2ee)
+
