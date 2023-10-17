@@ -117,6 +117,7 @@ Secara keseluruhan, skrip ini digunakan untuk mengkonfigurasi BIND9 agar dapat m
 
 
 Hasil pada saat diping di Nacula Client:
+
 <img width="684" alt="image" src="https://github.com/Abhinaya173/JARKOM-MODUL-2-D18-2023/assets/114478450/d49a3f03-02b3-43cc-8333-30fdce958a1d">
 
 #### 4 
@@ -147,6 +148,7 @@ parikesit IN    A       192.200.3.3      ; IP Abimanyu
 service bind9 restart
 ````
 Hasil pada saat testing di Nakula Client:
+
 <img width="684" alt="image" src="https://github.com/Abhinaya173/JARKOM-MODUL-2-D18-2023/assets/114478450/a5032c0a-bffc-4b35-b6d5-cfdcecae335f">
 
 #### Penjelasan
@@ -290,6 +292,7 @@ host -t PTR 192.200.3.3
 - Ini adalah perintah untuk menguji resolusi terbalik (reverse DNS) untuk alamat IP 192.200.3.3. Hasilnya akan menampilkan nama domain yang terkait dengan alamat IP tersebut. 
 
 Hasil dari testing dan bash di Nakula client:
+
 <img width="684" alt="image" src="https://github.com/Abhinaya173/JARKOM-MODUL-2-D18-2023/assets/114478450/9dd69ab9-84c2-4cdf-9af2-dd4483697874">
 
 
